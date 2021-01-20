@@ -102,6 +102,10 @@ p {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1 {
+  font-size: 22px;
+}
+
 h3 {
   color: #333;
   padding-bottom: 10px;
